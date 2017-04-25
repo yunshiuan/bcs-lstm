@@ -12,8 +12,8 @@ Please copy the following commands to your bash terminal:
 ## Pip Instructions
 If you are using pip:
 ```
-git clone https://github.com/yala/introdeeplearning;
-cd introdeeplearning;
+git clone https://github.com/nicholaslocascio/bcs-lstm;
+cd bcs-lstm;
 pip install virtualenv;
 virtualenv intro_dl;
 source intro_dl/bin/activate;
@@ -30,8 +30,8 @@ From within jupyter, in the top-right corner, select the kernel named "intro_dl"
 
 ## Conda Instructions
 ```
-git clone https://github.com/yala/introdeeplearning;
-cd introdeeplearning;
+git clone https://github.com/nicholaslocascio/bcs-lstm;
+cd bcs-lstm;
 conda create -n intro_dl;
 source activate intro_dl;
 conda install -c conda-forge tensorflow;
