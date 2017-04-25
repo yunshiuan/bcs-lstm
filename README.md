@@ -1,11 +1,7 @@
-# Intro to TensorFlow Labs
+# BCS Computational Tutorial: LSTM Sentiment Classifier
 
-## Lab 1: Intro to Tensorflow and MLP's for Sentiment Analysis
-Lab 1 can be found at `Lab1.ipynb`.
-
-## Lab 2: LSTM's for Sequence Modeling
-Lab 2 can be found at `Lab2.ipynb`.
-
+## LSTM's for Sequence Modeling
+Lab can be found at `Lab.ipynb`.
 
 ## Running the labs
 The labs are jupyter notebooks, so run `jupyter notebook` in this directory, and then click on the proper file name in jupyter to open it.
